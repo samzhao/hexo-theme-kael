@@ -1,13 +1,9 @@
-[中文详细说明点这里](http://yuche.me/introducing-kael-customization/)
-
-↑↑↑↑↑↑↑↑↑↑↑↑↑↑
-
-## WARNING
-The code is full of shit.
+## Forked and Improved
+Original: [hexo-theme-kael](https://github.com/yuche/hexo-theme-kael)
 
 ## Feature
 
- - Multi Level Push Menu 
+ - Multi Level Push Menu
  - Archive/Tags/Categoies Instant Search
  - Pjax with Progress Bar
  - Inline Comment just like [Medium](http://medium.com/)
@@ -21,10 +17,10 @@ The code is full of shit.
  - Opera 20 +
  - Safari 5 +
 
- 
+
 ## Preview
 ![kael-preview][1]
- 
+
 ## Installation
 
 ### Install
